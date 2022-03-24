@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Palette+Mosaic&family=Permanent+Marker&family=Roboto+Mono&family=Smokum&display=swap');@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Noto+Serif+JP:wght@700&family=Permanent+Marker&family=Roboto+Mono&family=Smokum&display=swap');
+ div{
+    text-align: center;
+    height: 930px;
+    width: 100%;
+    background-color:rgb(112, 26, 11) ;
+}
+h1{
+    color: rgb(255, 174, 0);
+    font-size: 70px;
+    font-style:italic;
+    text-decoration: underline;
+}
+h2{
+    color: rgb(31, 235, 41);
+
+}
+p{
+    color:cyan;
+}
+
+.fonte-1 {
+    font-family: 'Major Mono Display';
+}
+.fonte-2 {
+    font-family: 'Roboto Mono';
+}
+.fonte-3 {
+    font-family: 'Smokum';
+}
+.fonte-4 {
+    font-family: 'Palette Mosaic', cursive;
+}
+.fonte-5 {
+    font-family: 'Permanent MarkerS',cursive;
+}
